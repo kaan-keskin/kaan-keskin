@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/kaan-keskin/kaan-keskin/output/github-contribution-grid-snake.svg)
+
 <!--
 **kaan-keskin/kaan-keskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
